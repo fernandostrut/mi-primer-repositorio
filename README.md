@@ -16,3 +16,5 @@ Es el lenguaje de marcas que se usa en el Readme, al menos.
 * Modificado desde fuera
 
 Cloné el repositorio y ahora lo escribo.
+
+Este es el primer cambio de la rama azul que debe ser distinto de la rama master y de la rama verde.
