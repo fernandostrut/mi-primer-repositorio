@@ -12,3 +12,7 @@ Es un repositorio que permite el control de versiones usando la maquinaria de gi
 * ¿Qué es Markdown?
 
 Es el lenguaje de marcas que se usa en el Readme, al menos.
+
+* Modificado desde fuera
+
+Cloné el repositorio y ahora lo escribo.
